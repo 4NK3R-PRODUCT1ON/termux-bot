@@ -1,5 +1,5 @@
 # Bot Naga
-BOT WHATSAPP TERMUX BYE:DRAWL NAG
+BOT WHATSAPP TERMUX BYE : ANKER
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -17,8 +17,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git https://github.com/4NK3R-PRODUCT1ON/termux-bot
+> cd termux-bot
 > npm i
 > node index.js
 > Tinggal scan qr dah
@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`NUROTOMO`](https://github.com/Nurotomo)
 
 ### SOSMED
-* Youtube: Drawl Nag
+* Youtube: Anker production
